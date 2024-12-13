@@ -11,7 +11,7 @@ I'm Muluken, a passionate software engineer 🚀
 ## 🌐 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](http://www.linkedin.com/in/muluken-demis-711107259)
 
-[![Website](https://img.shields.io/badge/Website-YourSite-blue)]([https://yourwebsite.com](https://cinema-app-liart.vercel.app/))
+[![Website](https://img.shields.io/badge/Website-YourSite-blue)](https://cinema-app-liart.vercel.app/))
 
 ## 💻 Tech Stack
 ![C++](https://img.shields.io/badge/-C++-blue)
